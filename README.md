@@ -25,7 +25,6 @@ The goal of this game is to be the first to score 7 points
 
 ### 1.e. Artifacts
 1. Hockey puck
-![alt text](http://url/to/img.png)
 2. Hitter/striker
 3. Wall
 4. 2 slot
