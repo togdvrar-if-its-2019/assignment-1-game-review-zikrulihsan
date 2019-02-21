@@ -25,7 +25,7 @@ The goal of this game is to be the first to score 7 points
 
 ### 1.e. Artifacts
 1. Hockey puck
-![puck](assignment-1-game-review-zikrulihsan/hoki (1).jpeg)
+![puck](https://github.com/togdvrar-if-its-2019/assignment-1-game-review-zikrulihsan/hoki%20(1).jpeg)
       
 2. Hitter/striker
 3. Wall
