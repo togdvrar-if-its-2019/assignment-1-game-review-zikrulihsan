@@ -70,13 +70,13 @@ c. 2 Player
 - The chalenges is that you have to face the real opponents that possibly give you the psychology effect.
 
 
-### 3. Game Mechanic
-## 3.a. Player move
+## 3. Game Mechanic
+#### 3.a. Player move
 In this game, the player move is done by touching screen in their area to move the hitter. The hitter/striker movement is based on  the direction of the player's finger movements
-## 3.b Hitter Hit 
+#### 3.b Hitter Hit 
 Hitter can possibly hit the ball by using collision between two objects (hitter and pucks)
-## 3.c The puck moving speed and direction
+#### 3.c The puck moving speed and direction
 Based on the action-reaction process after a puck and the hitter collise
-## 3.d The reflection from the wall
+#### 3.d The reflection from the wall
 Every time the puck touching the wall, it will give the reflective effect 
 
