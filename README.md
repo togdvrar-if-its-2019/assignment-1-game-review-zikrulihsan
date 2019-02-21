@@ -3,7 +3,7 @@ assignment-1-game-review-zikrulihsan created by GitHub Classroom
 
 Game Review, by Zikrul Ihsan 05111850010045
 
-![puck](hoki4.jpeg | width=100)
+![puck](hoki4.jpeg)
 # Glow Hockey, New way to play Air hockey
 Glow hockey is an mobile game based that simulate the air hockey game.  You can get it on play store or apps store. you can play it by your self againts computer in 4 different level. or you can play it with your friends at the same device by using the 2 player mode.
 The difference is that every thing this game is a glow material, so you can play it with a different sensation of playing air usual hockey.
@@ -42,11 +42,13 @@ The goal of this game is to be the first to score 7 points
 - The Game is Ended when one of the player reach maximum score
 
 ## 2.b Plot
+#### _"You are an hockey athletes that compete to your opponent to win the match, here is the detail flow:"
 1. When the game starts, the hockey appears in the middle of the table, both players scramble to be able to hit the first ball that
 2. Players can freely hit the puck, there is no out rules
 3. Every time the pucks goes to the slot/goal, the other side scores is added and appear 
 4. After a player scores, the game is showing a "goal" state the pucks reappeared at their own area, where it is placed at the circle line
 5. Repeat process untill one of the player get the score to 7, and you win or you lose text will appear based on both final score
+
 ## 2.c Objectives
 - Every player must save their own slot to keep the pucks goes into their own slot 
 - Every player score as fast as he can to reach maximum score
