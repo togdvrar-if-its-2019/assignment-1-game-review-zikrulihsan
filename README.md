@@ -5,8 +5,9 @@ Game Review, by Zikrul Ihsan 05111850010045
 
 ![puck](hoki4.jpeg)
 # Glow Hockey, New way to play Air hockey
-Glow hockey is an mobile game based that simulate the air hockey game.  You can get it on play store or apps store. you can play it by your self againts computer in 4 different level. or you can play it with your friends at the same device by using the 2 player mode.
-The difference is that every thing this game is a glow material, so you can play it with a different sensation of playing air usual hockey.
+Glow hockey is an mobile game based that simulate the air hockey game.  
+
+This game try to make the player feel the real world air hockey game gameplay, by making the immersive effect of the game near to real world.The difference is that every thing this game is a glow material, so you can play it with a different sensation of playing air usual hockey. You can get it on play store or apps store. you can play it by your self againts computer in 4 different level. or you can play it with your friends at the same device by using the 2 player mode.
 
 ## 1. Basic Component of the game
 ### 1.a. The Gamespace
