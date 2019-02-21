@@ -45,9 +45,8 @@ The goal of this game is to be the first to score 7 points
 1. When the game starts, the hockey appears in the middle of the table, both players scramble to be able to hit the first ball that
 2. Players can freely hit the puck, there is no out rules
 3. Every time the pucks goes to the slot/goal, the other side scores is added and appear 
-4. After a player scores, the pucks reappeared at their own area, where it is placed at the circle line
-5. Repeat process untill one of the player get the score to 7
-
+4. After a player scores, the game is showing a "goal" state the pucks reappeared at their own area, where it is placed at the circle line
+5. Repeat process untill one of the player get the score to 7, and you win or you lose text will appear based on both final score
 ## 2.c Objectives
 - Every player must save their own slot to keep the pucks goes into their own slot 
 - Every player score as fast as he can to reach maximum score
